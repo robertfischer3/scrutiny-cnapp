@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "scrutiny",
+    "scrutiny-cli", "scrutiny-web",
+]
+resolver = "2"
